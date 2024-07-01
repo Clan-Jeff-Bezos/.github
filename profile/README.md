@@ -1,4 +1,4 @@
-🌟 ##Bienvenidos a Jeff Bezos en GitHub 🌟
+##🌟 Bienvenidos a Jeff Bezos en GitHub 🌟
 
 ¡Hola y bienvenidos a la comunidad de desarrollo Riwi! 
 Nos dedicamos a construir proyectos innovadores y colaborativos, aprovechando el poder del código abierto. Para garantizar un flujo de trabajo eficiente y ordenado, hemos establecido algunas reglas importantes que todos los miembros deben seguir.
