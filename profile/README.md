@@ -1,36 +1,36 @@
-<h1>🌟 Bienvenidos a Jeff Bezos en GitHub 🌟</h1>
+<h1>🌟 Welcome to Jeff Bezos on GitHub 🌟</h1>
 
-<p>¡Hola y bienvenidos a nuestra comunidad de desarrollo en Jeff Bezos! Nos dedicamos a construir proyectos innovadores y colaborativos, aprovechando el poder del código abierto. Para garantizar un flujo de trabajo eficiente y ordenado, hemos establecido algunas reglas importantes que todos los miembros deben seguir.</p>
+<p>Hello and welcome to our development community at Jeff Bezos! We are dedicated to building innovative and collaborative projects, leveraging the power of open source. To ensure an efficient and orderly workflow, we have established some important rules that all members must follow.</p>
 
 <div>
-    <h2>🌿 Reglas de Ramas 🌿</h2>
+    <h2>🌿 Branch Rules 🌿</h2>
     <ul>
         <li>
-          <span>Rama Principal (<code>main</code>)</span>:
-          <br>La rama <code>main</code> contiene el código listo para producción. Todos los cambios aquí deben ser estables y totalmente funcionales.
+          <span>Main Branch (<code>main</code>)</span>:
+          <br>The <code>main</code> branch contains production-ready code. All changes here must be stable and fully functional.
         </li>
         <li>
-          <span>Ramas de Desarrollo (<code>develop</code>)</span>: 
-          <br>Utilizamos una rama <code>develop</code> para integrar nuevas características y mejoras. 
-          Esta es la rama donde se realiza la mayoría del trabajo antes de pasar a <code>main</code>.
+          <span>Development Branches (<code>develop</code>)</span>: 
+          <br>We use a <code>develop</code> branch to integrate new features and improvements. 
+          This is the branch where most of the work is done before merging into <code>main</code>.
         </li>
         <li>
-          <span>Ramas de Características (<code>feature</code>)</span>: 
-          <br>Cada nueva característica o mejora debe desarrollarse en una rama separada. Nómbrala <code>feature/nombre-de-la-característica</code>.
+          <span>Feature Branches (<code>feature</code>)</span>: 
+          <br>Each new feature or improvement should be developed in a separate branch. Name it <code>feature/feature-name</code>.
         </li>
     </ul>
 </div>
 
 <div>
-    <h2>✨ Reglas de Commit ✨</h2>
+    <h2>✨ Commit Rules ✨</h2>
     <ul>
       <li>
-        <span>Mensajes Claros</span>: 
-        <br>Cada commit debe tener un mensaje claro y descriptivo. Usa el formato <code>[Tipo]: Descripción corta</code>.
+        <span>Clear Messages</span>: 
+        <br>Each commit should have a clear and descriptive message. Use the format <code>[Type]: Short description</code>.
       </li>
       <li>
-        <span>Commits Atómicos</span>: 
-        <br>Realiza commits atómicos y específicos. Cada commit debe representar un cambio único y funcional.
+        <span>Atomic Commits</span>: 
+        <br>Make atomic and specific commits. Each commit should represent a unique and functional change.
       </li>
     </ul>
 </div>
